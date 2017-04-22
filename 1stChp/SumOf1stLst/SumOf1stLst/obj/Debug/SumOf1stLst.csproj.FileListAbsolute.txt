@@ -1,0 +1,6 @@
+C:\Users\VIRAL JOSHI\Documents\Visual Studio 2015\Projects\SumOf1stLst\SumOf1stLst\bin\Debug\SumOf1stLst.exe.config
+C:\Users\VIRAL JOSHI\Documents\Visual Studio 2015\Projects\SumOf1stLst\SumOf1stLst\bin\Debug\SumOf1stLst.exe
+C:\Users\VIRAL JOSHI\Documents\Visual Studio 2015\Projects\SumOf1stLst\SumOf1stLst\bin\Debug\SumOf1stLst.pdb
+C:\Users\VIRAL JOSHI\Documents\Visual Studio 2015\Projects\SumOf1stLst\SumOf1stLst\obj\Debug\SumOf1stLst.csprojResolveAssemblyReference.cache
+C:\Users\VIRAL JOSHI\Documents\Visual Studio 2015\Projects\SumOf1stLst\SumOf1stLst\obj\Debug\SumOf1stLst.exe
+C:\Users\VIRAL JOSHI\Documents\Visual Studio 2015\Projects\SumOf1stLst\SumOf1stLst\obj\Debug\SumOf1stLst.pdb

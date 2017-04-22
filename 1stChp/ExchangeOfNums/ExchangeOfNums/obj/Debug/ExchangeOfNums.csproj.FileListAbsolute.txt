@@ -1,0 +1,5 @@
+C:\Users\VIRAL JOSHI\Documents\Visual Studio 2015\Projects\ExchangeOfNums\ExchangeOfNums\bin\Debug\ExchangeOfNums.exe.config
+C:\Users\VIRAL JOSHI\Documents\Visual Studio 2015\Projects\ExchangeOfNums\ExchangeOfNums\bin\Debug\ExchangeOfNums.exe
+C:\Users\VIRAL JOSHI\Documents\Visual Studio 2015\Projects\ExchangeOfNums\ExchangeOfNums\bin\Debug\ExchangeOfNums.pdb
+C:\Users\VIRAL JOSHI\Documents\Visual Studio 2015\Projects\ExchangeOfNums\ExchangeOfNums\obj\Debug\ExchangeOfNums.exe
+C:\Users\VIRAL JOSHI\Documents\Visual Studio 2015\Projects\ExchangeOfNums\ExchangeOfNums\obj\Debug\ExchangeOfNums.pdb

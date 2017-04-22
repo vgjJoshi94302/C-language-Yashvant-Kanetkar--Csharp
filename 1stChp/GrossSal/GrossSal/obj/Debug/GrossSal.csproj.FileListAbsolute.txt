@@ -1,0 +1,6 @@
+C:\Users\VIRAL JOSHI\Documents\Visual Studio 2015\Projects\GrossSal\GrossSal\bin\Debug\GrossSal.exe.config
+C:\Users\VIRAL JOSHI\Documents\Visual Studio 2015\Projects\GrossSal\GrossSal\bin\Debug\GrossSal.exe
+C:\Users\VIRAL JOSHI\Documents\Visual Studio 2015\Projects\GrossSal\GrossSal\bin\Debug\GrossSal.pdb
+C:\Users\VIRAL JOSHI\Documents\Visual Studio 2015\Projects\GrossSal\GrossSal\obj\Debug\GrossSal.csprojResolveAssemblyReference.cache
+C:\Users\VIRAL JOSHI\Documents\Visual Studio 2015\Projects\GrossSal\GrossSal\obj\Debug\GrossSal.exe
+C:\Users\VIRAL JOSHI\Documents\Visual Studio 2015\Projects\GrossSal\GrossSal\obj\Debug\GrossSal.pdb

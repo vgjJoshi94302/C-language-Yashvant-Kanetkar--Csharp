@@ -1,0 +1,6 @@
+C:\Users\VIRAL JOSHI\Documents\Visual Studio 2015\Projects\SumOfDigits\SumOfDigits\bin\Debug\SumOfDigits.exe.config
+C:\Users\VIRAL JOSHI\Documents\Visual Studio 2015\Projects\SumOfDigits\SumOfDigits\bin\Debug\SumOfDigits.exe
+C:\Users\VIRAL JOSHI\Documents\Visual Studio 2015\Projects\SumOfDigits\SumOfDigits\bin\Debug\SumOfDigits.pdb
+C:\Users\VIRAL JOSHI\Documents\Visual Studio 2015\Projects\SumOfDigits\SumOfDigits\obj\Debug\SumOfDigits.csprojResolveAssemblyReference.cache
+C:\Users\VIRAL JOSHI\Documents\Visual Studio 2015\Projects\SumOfDigits\SumOfDigits\obj\Debug\SumOfDigits.exe
+C:\Users\VIRAL JOSHI\Documents\Visual Studio 2015\Projects\SumOfDigits\SumOfDigits\obj\Debug\SumOfDigits.pdb
