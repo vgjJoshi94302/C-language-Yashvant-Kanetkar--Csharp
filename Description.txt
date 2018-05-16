@@ -1,0 +1,4 @@
+C programming programmes done in C# given by Yashwant Kanetkar. The bio is
+mentioned in this link.
+
+https://en.wikipedia.org/wiki/Yashavant_Kanetkar
